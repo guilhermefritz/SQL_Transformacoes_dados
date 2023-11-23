@@ -2,7 +2,7 @@
 
 
     *Categorização 
-    *Enconding(Label-enconding,One-hot-enconding
+    *Enconding(Label-enconding,One-hot-enconding)
     *Binarização
     
 
