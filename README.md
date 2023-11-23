@@ -1,4 +1,4 @@
-# O objetivo do projeto é evidenciar os tipos de  transformações que são rotineiramente realizadas nos dados  pelo analista de dados.
+### O objetivo do projeto é evidenciar os tipos de  transformações que são rotineiramente realizadas nos dados  pelo analista de dados.
     *Categorização 
     *Enconding(Label-enconding,One-hot-enconding
     *Binarização
