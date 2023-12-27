@@ -6,5 +6,5 @@
     
     
 
-O comando 'CASE WHEN' do SQL, que é utilizado para execução de consultas condicionais , foi muito utilizado!
+A cláusula 'CASE WHEN' do SQL, é frequentemente utilizada para realizar transformações nos dados com base em condições específicas.
     
